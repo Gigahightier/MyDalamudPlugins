@@ -1,11 +1,11 @@
 [
     {
         "Author": "attick, daemitus",
-        "Name": "XIV Combo Expanded",
+        "Name": "XIVCombo",
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button.",
         "InternalName": "XIVCombo",
         "AssemblyVersion": "1.0.3.7",
-        "RepoUrl": "https://github.com/daemitus/XIVCombo",
+        "RepoUrl": "https://github.com/daemitus/XIVComboPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 2,
         "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVCombo/latest.zip",
