@@ -5,7 +5,7 @@
   "AssemblyVersion": "1.0.3.7",
   "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button.",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/daemitus/XIVCombo",
+  "RepoUrl": "https://github.com/daemitus/XIVComboPlugin",
   "DalamudApiLevel": 2,
   "LoadPriority": 0
 }
