@@ -1,27 +1,10 @@
 [
     {
-        "Author": "attick, daemitus",
-        "Name": "XIVCombo",
-        "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button.",
-        "InternalName": "XIVCombo",
-        "AssemblyVersion": "1.0.3.7",
-        "RepoUrl": "https://github.com/daemitus/XIVComboPlugin",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 2,
-        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVCombo/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVCombo/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVCombo/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1611001566"
-    },
-    {
         "Author": "daemitus",
         "Name": "ezMiniCactpot",
         "Description": "Highlights recommended tiles in Mini Cactpot for your next move.",
         "InternalName": "MiniCactpotSolver",
-        "AssemblyVersion": "1.0.0.0",
+        "AssemblyVersion": "1.0.1.0",
         "RepoUrl": "https://github.com/daemitus/MiniCactpotSolver",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 2,
@@ -31,6 +14,40 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/MiniCactpotSolver/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/MiniCactpotSolver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1611001566"
+        "LastUpdated": "1611541841"
+    },
+    {
+        "Author": "attick, daemitus",
+        "Name": "XIV Combo Expanded",
+        "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button.",
+        "InternalName": "XIVComboExpanded",
+        "AssemblyVersion": "1.0.3.8",
+        "RepoUrl": "https://github.com/daemitus/XIVComboPlugin",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 2,
+        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1611541841"
+    },
+    {
+        "Author": "daemitus",
+        "Name": "ezWondrousTails",
+        "Description": "Adds row probabilities to the Wondrous Tails display.",
+        "InternalName": "WondrousTailsSolver",
+        "AssemblyVersion": "1.0.0.5",
+        "RepoUrl": "https://github.com/daemitus/WondrousTailsSolver",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 2,
+        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/WondrousTailsSolver/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/WondrousTailsSolver/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/WondrousTailsSolver/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1611541841"
     }
 ]
